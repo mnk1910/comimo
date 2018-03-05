@@ -1,5 +1,5 @@
 <?php
-include ("./includes/top.php");
+include ("./includes/header.php");
 ?>
 
     <!-- Contact Section -->
@@ -7,10 +7,10 @@ include ("./includes/top.php");
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto">
-            <h2>Contact Start Bootstrap</h2>
-            <p>Feel free to leave us a comment on the
-              <a href="http://startbootstrap.com/template-overviews/grayscale/">Grayscale template overview page</a>
-              on Start Bootstrap to give some feedback about this theme!</p>
+            <h2>Contact us</h2>
+            <p>Feel free to leave us a comment or to give some feedback about our website.
+              <!-- <a href="http://startbootstrap.com/template-overviews/grayscale/">Grayscale template overview page</a> -->
+              Even better, tell us how your experince with us felt!</p>
             <ul class="list-inline banner-social-buttons">
               <li class="list-inline-item">
                 <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg">
@@ -36,10 +36,10 @@ include ("./includes/top.php");
       </div>
     </section>
 
-    <!-- Map Section -->
-    <div id="map"></div>
+    <!-- Map Section
+    <div id="map"></div> -->
 
 <?php
-include ("./includes/bottom.php");
+include ("./includes/footer.php");
 ?>
 

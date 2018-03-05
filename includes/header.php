@@ -19,7 +19,7 @@
     <link href='https://fonts.googleapis.com/css?family=Cabin:700' rel='stylesheet' type='text/css'>
 
     <!-- Custom styles for this template -->
-    <link href="./css/grayscale.min.css" rel="stylesheet">
+    <link href="./css/grayscale.css" rel="stylesheet">
 
   </head>
 
@@ -28,7 +28,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="./index.php">Start Bootstrap</a>
+        <a class="navbar-brand js-scroll-trigger" href="./index.php">Home</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fa fa-bars"></i>
@@ -36,10 +36,10 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="./about.php">About</a>
+              <a class="nav-link js-scroll-trigger" href="./books.php">Books</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="./download.php">Download</a>
+              <a class="nav-link js-scroll-trigger" href="./electronics.php">Electronics</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="./contact.php">Contact</a>
